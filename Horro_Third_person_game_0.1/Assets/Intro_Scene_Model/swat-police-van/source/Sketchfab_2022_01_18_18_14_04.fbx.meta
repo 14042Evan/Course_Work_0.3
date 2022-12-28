@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 9b20bc9cce062b1469d26a6ce7bf6f52
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: m
+    100002: Main Body
+    100004: Main Body.001
+    100006: Main Body.002
+    100008: Main Body.003
+    100010: Main Body.004
+    100012: Main Body.006
+    100014: Main Body.007
+    100016: Main Body.008
+    100018: Main Body.009
+    100020: Main Body.010
+    100022: Main Body.011
+    100024: Main Body.012
+    100026: Main Body.013
+    100028: Main Body.014
+    100030: Main Body.015
+    100032: Main Body.016
+    100034: Main Body.017
+    100036: Main Body.018
+    100038: Main Body.019
+    100040: Main Body.020
+    100042: Main Body.021
+    100044: Main Body.022
+    100046: Main Body.023
+    100048: Main Body.024
+    100050: Main Body.025
+    100052: Main Body.026
+    100054: Main Body.027
+    100056: Main Body.028
+    100058: Main Body.029
+    100060: Main Body.030
+    100062: Main Body.031
+    100064: Main Body.032
+    100066: Main Body.033
+    100068: Main Body.034
+    100070: Main Body.035
+    100072: Main Body.036
+    100074: Main Body.037
+    100076: Main Body.038
+    100078: Main Body.039
+    100080: Main Body.040
+    100082: Main Body.041
+    100084: Main Body.042
+    100086: Main Body.043
+    100088: Main Body.044
+    100090: Main Body.045
+    100092: Main Body.046
+    100094: Main Body.047
+    100096: Main Body.048
+    100098: Main Body.049
+    100100: Main Body.050
+    100102: Main Body.051
+    100104: Main Body.054
+    100106: Main Body.055
+    100108: Main Body.056
+    100110: Main Body.057
+    100112: Main Body.058
+    100114: Main Body.059
+    100116: Main Body.060
+    100118: Main Body.061
+    100120: Main Body.062
+    100122: Main Body.063
+    100124: Main Body.064
+    100126: Main Body.065
+    100128: Main Body.066
+    100130: Main Body.067
+    100132: Main Body.068
+    100134: Main Body.072
+    100136: Main Body.073
+    100138: Main Body.074
+    100140: //RootNode
+    100142: Swat Left
+    100144: Swat Left.001
+    100146: Swat Left.002
+    400000: m
+    400002: Main Body
+    400004: Main Body.001
+    400006: Main Body.002
+    400008: Main Body.003
+    400010: Main Body.004
+    400012: Main Body.006
+    400014: Main Body.007
+    400016: Main Body.008
+    400018: Main Body.009
+    400020: Main Body.010
+    400022: Main Body.011
+    400024: Main Body.012
+    400026: Main Body.013
+    400028: Main Body.014
+    400030: Main Body.015
+    400032: Main Body.016
+    400034: Main Body.017
+    400036: Main Body.018
+    400038: Main Body.019
+    400040: Main Body.020
+    400042: Main Body.021
+    400044: Main Body.022
+    400046: Main Body.023
+    400048: Main Body.024
+    400050: Main Body.025
+    400052: Main Body.026
+    400054: Main Body.027
+    400056: Main Body.028
+    400058: Main Body.029
+    400060: Main Body.030
+    400062: Main Body.031
+    400064: Main Body.032
+    400066: Main Body.033
+    400068: Main Body.034
+    400070: Main Body.035
+    400072: Main Body.036
+    400074: Main Body.037
+    400076: Main Body.038
+    400078: Main Body.039
+    400080: Main Body.040
+    400082: Main Body.041
+    400084: Main Body.042
+    400086: Main Body.043
+    400088: Main Body.044
+    400090: Main Body.045
+    400092: Main Body.046
+    400094: Main Body.047
+    400096: Main Body.048
+    400098: Main Body.049
+    400100: Main Body.050
+    400102: Main Body.051
+    400104: Main Body.054
+    400106: Main Body.055
+    400108: Main Body.056
+    400110: Main Body.057
+    400112: Main Body.058
+    400114: Main Body.059
+    400116: Main Body.060
+    400118: Main Body.061
+    400120: Main Body.062
+    400122: Main Body.063
+    400124: Main Body.064
+    400126: Main Body.065
+    400128: Main Body.066
+    400130: Main Body.067
+    400132: Main Body.068
+    400134: Main Body.072
+    400136: Main Body.073
+    400138: Main Body.074
+    400140: //RootNode
+    400142: Swat Left
+    400144: Swat Left.001
+    400146: Swat Left.002
+    2100000: Small Detail
+    2100002: Larger Body Parts
+    2100004: Glass
+    2100006: Wheels
+    2100008: Main Body
+    2100010: SWAT Writing
+    2300000: m
+    2300002: Main Body
+    2300004: Main Body.001
+    2300006: Main Body.002
+    2300008: Main Body.003
+    2300010: Main Body.004
+    2300012: Main Body.006
+    2300014: Main Body.007
+    2300016: Main Body.008
+    2300018: Main Body.009
+    2300020: Main Body.010
+    2300022: Main Body.011
+    2300024: Main Body.012
+    2300026: Main Body.013
+    2300028: Main Body.014
+    2300030: Main Body.015
+    2300032: Main Body.016
+    2300034: Main Body.017
+    2300036: Main Body.018
+    2300038: Main Body.019
+    2300040: Main Body.020
+    2300042: Main Body.021
+    2300044: Main Body.022
+    2300046: Main Body.023
+    2300048: Main Body.024
+    2300050: Main Body.025
+    2300052: Main Body.026
+    2300054: Main Body.027
+    2300056: Main Body.028
+    2300058: Main Body.029
+    2300060: Main Body.030
+    2300062: Main Body.031
+    2300064: Main Body.032
+    2300066: Main Body.033
+    2300068: Main Body.034
+    2300070: Main Body.035
+    2300072: Main Body.036
+    2300074: Main Body.037
+    2300076: Main Body.038
+    2300078: Main Body.039
+    2300080: Main Body.040
+    2300082: Main Body.041
+    2300084: Main Body.042
+    2300086: Main Body.043
+    2300088: Main Body.044
+    2300090: Main Body.045
+    2300092: Main Body.046
+    2300094: Main Body.047
+    2300096: Main Body.048
+    2300098: Main Body.049
+    2300100: Main Body.050
+    2300102: Main Body.051
+    2300104: Main Body.054
+    2300106: Main Body.055
+    2300108: Main Body.056
+    2300110: Main Body.057
+    2300112: Main Body.058
+    2300114: Main Body.059
+    2300116: Main Body.060
+    2300118: Main Body.061
+    2300120: Main Body.062
+    2300122: Main Body.063
+    2300124: Main Body.064
+    2300126: Main Body.065
+    2300128: Main Body.066
+    2300130: Main Body.067
+    2300132: Main Body.068
+    2300134: Main Body.072
+    2300136: Main Body.073
+    2300138: Main Body.074
+    2300140: Swat Left
+    2300142: Swat Left.001
+    2300144: Swat Left.002
+    3300000: m
+    3300002: Main Body
+    3300004: Main Body.001
+    3300006: Main Body.002
+    3300008: Main Body.003
+    3300010: Main Body.004
+    3300012: Main Body.006
+    3300014: Main Body.007
+    3300016: Main Body.008
+    3300018: Main Body.009
+    3300020: Main Body.010
+    3300022: Main Body.011
+    3300024: Main Body.012
+    3300026: Main Body.013
+    3300028: Main Body.014
+    3300030: Main Body.015
+    3300032: Main Body.016
+    3300034: Main Body.017
+    3300036: Main Body.018
+    3300038: Main Body.019
+    3300040: Main Body.020
+    3300042: Main Body.021
+    3300044: Main Body.022
+    3300046: Main Body.023
+    3300048: Main Body.024
+    3300050: Main Body.025
+    3300052: Main Body.026
+    3300054: Main Body.027
+    3300056: Main Body.028
+    3300058: Main Body.029
+    3300060: Main Body.030
+    3300062: Main Body.031
+    3300064: Main Body.032
+    3300066: Main Body.033
+    3300068: Main Body.034
+    3300070: Main Body.035
+    3300072: Main Body.036
+    3300074: Main Body.037
+    3300076: Main Body.038
+    3300078: Main Body.039
+    3300080: Main Body.040
+    3300082: Main Body.041
+    3300084: Main Body.042
+    3300086: Main Body.043
+    3300088: Main Body.044
+    3300090: Main Body.045
+    3300092: Main Body.046
+    3300094: Main Body.047
+    3300096: Main Body.048
+    3300098: Main Body.049
+    3300100: Main Body.050
+    3300102: Main Body.051
+    3300104: Main Body.054
+    3300106: Main Body.055
+    3300108: Main Body.056
+    3300110: Main Body.057
+    3300112: Main Body.058
+    3300114: Main Body.059
+    3300116: Main Body.060
+    3300118: Main Body.061
+    3300120: Main Body.062
+    3300122: Main Body.063
+    3300124: Main Body.064
+    3300126: Main Body.065
+    3300128: Main Body.066
+    3300130: Main Body.067
+    3300132: Main Body.068
+    3300134: Main Body.072
+    3300136: Main Body.073
+    3300138: Main Body.074
+    3300140: Swat Left
+    3300142: Swat Left.001
+    3300144: Swat Left.002
+    4300000: m
+    4300002: Main Body
+    4300004: Main Body.001
+    4300006: Main Body.002
+    4300008: Main Body.003
+    4300010: Main Body.004
+    4300012: Main Body.006
+    4300014: Main Body.007
+    4300016: Main Body.008
+    4300018: Main Body.009
+    4300020: Main Body.010
+    4300022: Main Body.011
+    4300024: Main Body.012
+    4300026: Main Body.013
+    4300028: Main Body.014
+    4300030: Main Body.015
+    4300032: Main Body.016
+    4300034: Main Body.017
+    4300036: Main Body.018
+    4300038: Main Body.019
+    4300040: Main Body.020
+    4300042: Main Body.021
+    4300044: Main Body.022
+    4300046: Main Body.023
+    4300048: Main Body.024
+    4300050: Main Body.025
+    4300052: Main Body.026
+    4300054: Main Body.027
+    4300056: Main Body.028
+    4300058: Main Body.029
+    4300060: Main Body.030
+    4300062: Main Body.031
+    4300064: Main Body.032
+    4300066: Main Body.033
+    4300068: Main Body.034
+    4300070: Main Body.035
+    4300072: Main Body.036
+    4300074: Main Body.037
+    4300076: Main Body.038
+    4300078: Main Body.039
+    4300080: Main Body.040
+    4300082: Main Body.041
+    4300084: Main Body.042
+    4300086: Main Body.043
+    4300088: Main Body.044
+    4300090: Main Body.045
+    4300092: Main Body.046
+    4300094: Main Body.047
+    4300096: Main Body.048
+    4300098: Main Body.049
+    4300100: Main Body.050
+    4300102: Main Body.051
+    4300104: Main Body.054
+    4300106: Main Body.055
+    4300108: Main Body.056
+    4300110: Main Body.057
+    4300112: Main Body.058
+    4300114: Main Body.059
+    4300116: Main Body.060
+    4300118: Main Body.061
+    4300120: Main Body.062
+    4300122: Main Body.063
+    4300124: Main Body.064
+    4300126: Main Body.065
+    4300128: Main Body.066
+    4300130: Main Body.067
+    4300132: Main Body.068
+    4300134: Main Body.072
+    4300136: Main Body.073
+    4300138: Main Body.074
+    4300140: Swat Left
+    4300142: Swat Left.001
+    4300144: Swat Left.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.8
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
